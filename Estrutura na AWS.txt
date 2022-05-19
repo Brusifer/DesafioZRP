@@ -1,0 +1,2 @@
+A API seria disponibilizada na AWS a partir de uma instancia da EC2 com Kubernetes para melhor disponibilidade e facil manutenção da aplicação, com opção de passar para a EKS para maior escalabilidade caso necessário.
+Seria utilizado github actions ou parecido para automatização do deploy, e pull requests com CircleCI para evitar grandes erros.
